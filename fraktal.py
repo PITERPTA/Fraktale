@@ -1,4 +1,4 @@
-import matplotlib.pyplot as plt     
+import matplotlib.pyplot as plt  
 import random as rnd
 x = [0]     0
 y = [0]     
